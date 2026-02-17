@@ -1,2 +1,2 @@
 # Quiz-App
-Random Number Matching Game
+A quiz app
