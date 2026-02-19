@@ -82,3 +82,36 @@ body{
     background-color: #eadbc8;
     border-color: #dac0ae;
 }
+
+.answer-btn.correct{
+    background-color: #e6fff0;
+    border-color: #a3f0c4;
+    color: #28a745;
+}
+
+.answer-btn.incorrect{
+    background-color: #fff0f0;
+    border-color: #ffbdbd;
+    color: #dc3545;
+}
+
+.progress-bar{
+    height: 10px;
+    border-color: #f8f0e5;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.progress{
+    height: 100%;
+    background-color: #e86a33;
+    width: 0%;
+    transition: width 0.3s ease;
+}
+
+/* RESULT SCREEN */
+
+#result-scren h1{
+    color: ;
+}
